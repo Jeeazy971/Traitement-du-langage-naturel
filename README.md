@@ -12,6 +12,7 @@ pip install pandas
 pip install regex
 pip install torch
 pip install sklearn
+pip install scikit-learn
 pip install transformers
 ```
 

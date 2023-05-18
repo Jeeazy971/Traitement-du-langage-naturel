@@ -14,6 +14,7 @@ pip install torch
 pip install sklearn
 pip install scikit-learn
 pip install transformers
+pip install --upgrade accelerate
 ```
 
 ### 2. Importer les bibliothèques nécessaires
